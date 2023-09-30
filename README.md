@@ -1,12 +1,19 @@
 # 3D T-Shirt Designer with  AI Integration
 
-This project showcases a dynamic website that combines the power of ThreeJS for 3D graphics with artificial intelligence. It's designed to provide an immersive and interactive experience for users while also demonstrating the integration of image generating AI technology.
+## Introduction
+
+This project showcases a dynamic *React* website that combines the power of *ThreeJS* for 3D graphics with artificial intelligence. It's designed to provide an immersive and interactive experience for users while also demonstrating the integration of image generating AI technology.
+
+Cutting-edge technologies and features used to create a dynamic and engaging web experience:
+
+  *`ThreeJS`   `React Three Fiber`    `TailwindCSS`  `Framer Motion`*    
 
 ## Key Features
 
-1. **T-Shirt Design:** Customize t-shirt designs with a color picker.
-2. **File Upload:** Personalize t-shirts by uploading images.
-3. **AI Prompt:** Generate t-shirt designs through AI prompts using DALLE AI.
+1. Customize t-shirt designs with a color picker.
+2. Personalize t-shirts by uploading images.
+3. Generate t-shirt designs through AI prompts using DALLE AI.
+4. Download an image of resulting T-shirt.
 
 ## Usage
 
@@ -15,21 +22,21 @@ To explore and interact with this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Alimzade/ai_threejs_designer.git
 2. Navigate to the project directory
  and install the required dependencies
     ```bash
-    cd your-repo
+    cd ai_threejs_designer
     npm install
 3.  Create an `.env` file under the `/server/` directory and include your OpenAI API key for image generation. Here's an example of what your `.env` file should contain:
 
     ```bash
     OPENAI_API_KEY=your-api-key-here
-4. Running the Project:
+4. Running the website:
     
     a.  Start the backend server from the `/server/` folder:
     ```bash
-    cd server
+    cd /server
     npm start
     ```
 
@@ -38,7 +45,7 @@ To explore and interact with this project, follow these steps:
     cd client
     npm run dev
     ```
-Now, the project should be up and running locally, allowing you to explore the ThreeJS-powered 3D graphics and AI integration in action.
+Now, the website should be up and running locally, allowing you to explore the ThreeJS-powered 3D graphics and AI integration in action.
 
 ## Conclusion
-This project demonstrates the integration of cutting-edge technology into web design, allowing users to personalize t-shirts through color selection, image uploads, and AI-generated designs. By following the steps outlined in this repository, you can explore the capabilities of this dynamic 3D product website.
+This project demonstrates the integration of cutting-edge technology into web design, allowing users to personalize t-shirts through color selection, image uploads, and AI-generated designs. By following the steps outlined in this repository, you can explore the capabilities of this dynamic website.
