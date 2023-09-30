@@ -1,0 +1,41 @@
+.icons {
+    position: absolute;
+    height: 40px;
+    width: 42px;
+    padding: 9px;
+    margin-left: 12px;
+    padding-left: 8px;
+    padding-top: 0px;
+
+    /*background-color: rgb(21, 128, 9);*/
+    &:hover {
+        cursor: pointer;
+    }
+
+    .icon{
+        width: 100px;
+        height: 30px;
+        object-fit: contain;  
+    }
+}
+
+.icons2 {
+    position: absolute;
+    height: 40px;
+    width: 42px;
+    padding: 9px;
+    margin-left: 680px;
+    padding-left: 8px;
+    padding-top: 0px;
+
+    /*background-color: rgb(21, 128, 9);*/
+    &:hover {
+        cursor: pointer;
+    }
+
+    .icon2{
+        width: 100px;
+        height: 30px;
+        object-fit: contain;  
+    }
+}
