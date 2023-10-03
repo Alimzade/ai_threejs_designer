@@ -5,7 +5,7 @@ const state = proxy({
     color: '#158009',
     isLogoTexture: true,
     isFullTexture: false,
-    logoDecal: './pyramids-white.png',
+    logoDecal: './icon.png',
     fullDecal: './full.jpg',
 });
 

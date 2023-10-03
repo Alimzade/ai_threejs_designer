@@ -1,4 +1,4 @@
-# 3D T-Shirt Designer with  AI Integration
+# 3D T-shirt Designer with  AI Integration
 
 ## Introduction
 
@@ -19,30 +19,33 @@ Cutting-edge technologies and features used to create a dynamic and engaging web
 
 To explore and interact with this project, follow these steps:
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine or simply download the zip file:
 
    ```bash
    git clone https://github.com/Alimzade/ai_threejs_designer.git
-2. Navigate to the project directory
- and install the required dependencies
-    ```bash
-    cd ai_threejs_designer
-    npm install
-3.  Create an `.env` file under the `/server/` directory and include your OpenAI API key for image generation. Here's an example of what your `.env` file should contain:
+   ```
+
+2. Open this project in VS Code or other IDE.
+
+3.  Create an `.env` file under the `server/` directory and include your OpenAI API key for image generation. Here's an example of what your `.env` file should contain:
 
     ```bash
     OPENAI_API_KEY=your-api-key-here
-4. Running the website:
+    ```
+
+4. Open terminal, change directory to `server` folder, install dependencies and run backend server, using these commands:
     
-    a.  Start the backend server from the `/server/` folder:
     ```bash
-    cd /server
+    cd server
+    npm install
     npm start
     ```
 
-    b. In a separate terminal, start the frontend development server from the `/client/` folder:
+5. In a separate terminal, change directory to `client` folder, install dependencies and run website:
+
     ```bash
     cd client
+    npm install
     npm run dev
     ```
 Now, the website should be up and running locally, allowing you to explore the ThreeJS-powered 3D graphics and AI integration in action.
