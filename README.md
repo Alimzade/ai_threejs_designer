@@ -52,3 +52,6 @@ Now, the website should be up and running locally, allowing you to explore the T
 
 ## Conclusion
 This project demonstrates the integration of cutting-edge technology into web design, allowing users to personalize t-shirts through color selection, image uploads, and AI-generated designs. By following the steps outlined in this repository, you can explore the capabilities of this dynamic website.
+
+## Acknowledgments & Attribution
+This project was built following the architectural patterns and guidance provided by Adrian Hajdin (JS Mastery).
