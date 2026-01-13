@@ -8,6 +8,9 @@ Cutting-edge technologies and features used to create a dynamic and engaging web
 
   *`ThreeJS`   `React Three Fiber`    `TailwindCSS`  `Framer Motion`*    
 
+<img width="1292" height="923" alt="project1" src="https://github.com/user-attachments/assets/43b84807-e028-491d-9c77-a42dba2c3bbc" />
+
+
 ## Key Features
 
 1. Customize t-shirt designs with a color picker.
